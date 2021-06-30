@@ -1,0 +1,312 @@
+Receipt Ref:			BILL23862		14/06/21
+Items						Cost of Items 
+
+Fries:							1
+Lunch Meal: 						0
+Burger: 						0
+Pizza: 							0
+Cheese Burger: 						0
+Mac Nuggets: 						0
+Mac Puff: 						0
+Chicken Wings: 						0
+Coffee Cake: 						0
+Red Valet Cake: 					0
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							2
+Pepsi: 							0
+Cappuccino: 						0
+
+Cost of Food: 						Rs 70.00
+Tax Paid:						Rs 11
+Cost of Cakes and Drinks: 				Rs 140.00
+Sub Total:						Rs 210
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 221
+Receipt Ref:			BILL229310		14/06/21
+Items						Cost of Items 
+
+Fries:							0
+Lunch Meal: 						0
+Burger: 						0
+Pizza: 							0
+Cheese Burger: 						0
+Mac Nuggets: 						0
+Mac Puff: 						2
+Chicken Wings: 						3
+Coffee Cake: 						0
+Red Valet Cake: 					0
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							0
+Pepsi: 							0
+Cappuccino: 						0
+
+Cost of Food: 						Rs 460.00
+Tax Paid:						Rs 23
+Cost of Cakes and Drinks: 				Rs 0.00
+Sub Total:						Rs 460
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 483
+Receipt Ref:			BILL363039		15/06/21
+Items						Cost of Items 
+
+Fries:							0
+Lunch Meal: 						0
+Burger: 						0
+Pizza: 							0
+Cheese Burger: 						0
+Mac Nuggets: 						0
+Mac Puff: 						0
+Chicken Wings: 						0
+Coffee Cake: 						0
+Red Valet Cake: 					0
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							4
+Pepsi: 							0
+Cappuccino: 						0
+
+Cost of Food: 						Rs 0.00
+Tax Paid:						Rs 14
+Cost of Cakes and Drinks: 				Rs 280.00
+Sub Total:						Rs 280
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 294
+Receipt Ref:			BILL255356		15/06/21
+Items						Cost of Items 
+
+Fries:							0
+Lunch Meal: 						0
+Burger: 						0
+Pizza: 							0
+Cheese Burger: 						0
+Mac Nuggets: 						0
+Mac Puff: 						0
+Chicken Wings: 						0
+Coffee Cake: 						0
+Red Valet Cake: 					4
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							4
+Pepsi: 							0
+Cappuccino: 						0
+
+Cost of Food: 						Rs 0.00
+Tax Paid:						Rs 36
+Cost of Cakes and Drinks: 				Rs 720.00
+Sub Total:						Rs 720
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 756
+Receipt Ref:			BILL255336		16/06/21
+Items						Cost of Items 
+
+Fries:							0
+Lunch Meal: 						0
+Burger: 						0
+Pizza: 							0
+Cheese Burger: 						0
+Mac Nuggets: 						0
+Mac Puff: 						0
+Chicken Wings: 						0
+Coffee Cake: 						4
+Red Valet Cake: 					5
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							0
+Pepsi: 							0
+Cappuccino: 						0
+
+Cost of Food: 						Rs 0.00
+Tax Paid:						Rs 48
+Cost of Cakes and Drinks: 				Rs 950.00
+Sub Total:						Rs 950
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 998
+Receipt Ref:			BILL331620		16/06/21
+Items						Cost of Items 
+
+Fries:							0
+Lunch Meal: 						0
+Burger: 						5
+Pizza: 							0
+Cheese Burger: 						0
+Mac Nuggets: 						0
+Mac Puff: 						0
+Chicken Wings: 						0
+Coffee Cake: 						0
+Red Valet Cake: 					0
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							5
+Pepsi: 							0
+Cappuccino: 						0
+
+Cost of Food: 						Rs 250.00
+Tax Paid:						Rs 30
+Cost of Cakes and Drinks: 				Rs 350.00
+Sub Total:						Rs 600
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 630
+Receipt Ref:			BILL320810		17/06/21
+Items						Cost of Items 
+
+Fries:							0
+Lunch Meal: 						0
+Burger: 						0
+Pizza: 							0
+Cheese Burger: 						0
+Mac Nuggets: 						0
+Mac Puff: 						0
+Chicken Wings: 						4
+Coffee Cake: 						0
+Red Valet Cake: 					0
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							0
+Pepsi: 							0
+Cappuccino: 						0
+
+Cost of Food: 						Rs 480.00
+Tax Paid:						Rs 24
+Cost of Cakes and Drinks: 				Rs 0.00
+Sub Total:						Rs 480
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 504
+Receipt Ref:			BILL363268		17/06/21
+Items						Cost of Items 
+
+Fries:							4
+Lunch Meal: 						0
+Burger: 						0
+Pizza: 							0
+Cheese Burger: 						0
+Mac Nuggets: 						0
+Mac Puff: 						0
+Chicken Wings: 						0
+Coffee Cake: 						0
+Red Valet Cake: 					0
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							0
+Pepsi: 							4
+Cappuccino: 						0
+
+Cost of Food: 						Rs 280.00
+Tax Paid:						Rs 30
+Cost of Cakes and Drinks: 				Rs 320.00
+Sub Total:						Rs 600
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 630
+Receipt Ref:			BILL494850		18/06/21
+Items						Cost of Items 
+
+Fries:							0
+Lunch Meal: 						0
+Burger: 						4
+Pizza: 							0
+Cheese Burger: 						0
+Mac Nuggets: 						0
+Mac Puff: 						0
+Chicken Wings: 						0
+Coffee Cake: 						0
+Red Valet Cake: 					0
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							0
+Pepsi: 							4
+Cappuccino: 						0
+
+Cost of Food: 						Rs 200.00
+Tax Paid:						Rs 26
+Cost of Cakes and Drinks: 				Rs 320.00
+Sub Total:						Rs 520
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 546
+Receipt Ref:			BILL358595		18/06/21
+Items						Cost of Items 
+
+Fries:							0
+Lunch Meal: 						0
+Burger: 						0
+Pizza: 							0
+Cheese Burger: 						4
+Mac Nuggets: 						0
+Mac Puff: 						0
+Chicken Wings: 						0
+Coffee Cake: 						0
+Red Valet Cake: 					0
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							4
+Pepsi: 							0
+Cappuccino: 						0
+
+Cost of Food: 						Rs 200.00
+Tax Paid:						Rs 24
+Cost of Cakes and Drinks: 				Rs 280.00
+Sub Total:						Rs 480
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 504
+Receipt Ref:			BILL341223		23/06/21
+Items						Cost of Items 
+
+Fries:							0
+Lunch Meal: 						0
+Burger: 						0
+Pizza: 							0
+Cheese Burger: 						0
+Mac Nuggets: 						0
+Mac Puff: 						0
+Chicken Wings: 						0
+Coffee Cake: 						4
+Red Valet Cake: 					4
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							4
+Pepsi: 							0
+Cappuccino: 						0
+
+Cost of Food: 						Rs 0.00
+Tax Paid:						Rs 56
+Cost of Cakes and Drinks: 				Rs 1120.00
+Sub Total:						Rs 1120
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 1176
+Receipt Ref:			BILL17643		29/06/21
+Items						Cost of Items 
+
+Fries:							0
+Lunch Meal: 						6
+Burger: 						0
+Pizza: 							0
+Cheese Burger: 						0
+Mac Nuggets: 						0
+Mac Puff: 						0
+Chicken Wings: 						0
+Coffee Cake: 						0
+Red Valet Cake: 					0
+Black Forest Cake: 					0
+Boston Cream Cake: 					0
+Latte: 							0
+Coke: 							0
+Pepsi: 							0
+Cappuccino: 						0
+
+Cost of Food: 						Rs 540.00
+Tax Paid:						Rs 27
+Cost of Cakes and Drinks: 				Rs 0.00
+Sub Total:						Rs 540
+Service Charge: 					Rs 0.15
+Total Cost:						Rs 567
